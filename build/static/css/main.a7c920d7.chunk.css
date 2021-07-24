@@ -1,0 +1,2 @@
+*{padding:0;margin:0}body{background:#404040;color:#f5f5f5}.movie-app>.row{overflow-x:auto;flex-wrap:nowrap}.row>*{width:300px}.image-container{position:relative;transition:transform .2s}.image-container:hover{cursor:pointer;transform:scale(1.1)}.image-container:hover .overlay{opacity:1}.overlay{position:absolute;background:rgba(0,0,0,.8);width:100%;transition:.5s ease;opacity:0;bottom:0;font-size:20px;padding:20px;text-align:center}.bg{background:#00ffbe;background:linear-gradient(324deg,#00ffbe 35%,#3198ec);height:70px}
+/*# sourceMappingURL=main.a7c920d7.chunk.css.map */
