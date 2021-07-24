@@ -31,8 +31,8 @@ const App = () => {
       localStorage.getItem('movie-favorites')
     )
       setFavorites(movieFavorites)
-      if (movieFavourites) {
-        setFavourites(movieFavourites);
+      if (movieFavorites) {
+        setFavourites(movieFavorites);
       }
   }, [])
 
