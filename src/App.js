@@ -32,7 +32,7 @@ const App = () => {
     )
       setFavorites(movieFavorites)
       if (movieFavorites) {
-        setFavourites(movieFavorites);
+        setFavorites(movieFavorites);
       }
   }, [])
 
